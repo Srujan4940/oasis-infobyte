@@ -1,0 +1,42 @@
+body {
+  font-family: 'Times New Roman', Times, serif, sans-serif;
+  background-color: #b9acac;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #0f253d;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 36px;
+  color: white;
+}
+
+.container {
+  max-width: 700px;
+  
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgb(8, 13, 37);
+  border-radius: 5px solid black;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: 'Times New Roman', Times, serif;
+  color: whitesmoke;
+}
+.image{
+    height: 500px;
+    width: 700px;
+    text-align: center;
+    
+    box-shadow: 0 0 5px black;
+}
